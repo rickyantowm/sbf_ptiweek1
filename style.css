@@ -1,0 +1,31 @@
+html,
+body{
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+}
+div {
+    font-size: large;
+    text-align: center;
+
+}
+h2{
+    color: black;
+}
+
+.row{
+    background-color: aqua;
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    padding: 10px;
+    margin-bottom: 50px;
+
+}
+
+.movie{
+    background-color: brown;
+    display: flex;
+    justify-content: center;
+    margin-top: 50px;
+    flex-wrap: wrap;
+    margin-top: 50px
+}
